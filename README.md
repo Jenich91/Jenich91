@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenich91)](https://github.com/Jenich91/sql_diy_course)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenich91)](https://github.com/Jenich91)
