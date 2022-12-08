@@ -1,23 +1,30 @@
 
 
-### Всем привет 👋<img style="float: right;" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif">
+### Всем привет 👋![](pc)![](https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif)
 
+Программирую на C/C++, C#/Java, Bash, SQL computer 💻\
+Учусь в Школе 21 🚀
 
+- 🔭 Сейчас работают над ...Info21 v1.0(Нужно создать базу данных с данными о Школе и написать процедуры и функции для получения информации, а также процедуры и триггеры для ее изменения)
+- 🌱 Сейчас изучаю ...SQL, Postgres, SQLite
 
-
-
-Программирую на C/C++, C#/Java, Bash, SQL \
-Учусь в Школе 21
-
-<a href="https://www.freeiconspng.com/img/6248">Telegram Icon Size</a>
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...Info21 v1.0(Нужно создать базу данных с данными о Школе и написать процедуры и функции для получения информации, а также процедуры и триггеры для ее изменения)
-- 🌱 I’m currently learning ...SQL
--->
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack"  alt="slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 
 
 Проекты, над которыми я работал:
@@ -41,7 +48,4 @@ CPP2_s21_containers|Разработка собственной реализац
 CPP3_SmartCalc_v2|Разработка на языке программирования С++ в парадигме объектно-ориентированного программирования расширенную версию обычного калькулятора, реализующую те же самые функции, что и разработанное ранее приложение в проекте SmartCalc v1.0, с использованием паттерна MVC. 
 CPP4_3DViewer_v2|Разработка на языке программирования С++ в парадигме объектно-ориентированного программирования приложение для просмотра 3D моделей в каркасном виде, реализующее те же самые функции, что и разработанное ранее приложение в проекте 3DViewer v1.0, с использованием паттерна MVC, и трех дополнительных паттернов проектирования|
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenich91&layout=compact)](https://github.com/Jenich91/)
-
-<img src="https://komarev.com/ghpvc/?username=Jenich91&style=flat-square&color=blue" alt=""/>
+![Jokes Card](https://readme-jokes.vercel.app/api) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenich91&layout=compact&theme=vision-friendly-dark) 
