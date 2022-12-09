@@ -1,12 +1,16 @@
+### Всем привет 👋
 
-
-### Всем привет 👋![](pc)![](https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif)
-
-Программирую на C/C++, C#/Java, Bash, SQL computer 💻\
+<table><tr>
+<td>
+Программирую на C/C++, C#/Java, Bash, SQL 💻<br>
 Учусь в Школе 21 🚀
 
 - 🔭 Сейчас работают над ...Info21 v1.0(Нужно создать базу данных с данными о Школе и написать процедуры и функции для получения информации, а также процедуры и триггеры для ее изменения)
-- 🌱 Сейчас изучаю ...SQL, Postgres, SQLite
+- 🌱 Сейчас изучаю ...SQL, Postgres, SQLite </td>
+<td> 
+  <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" alt="pc" style="width: 1500px;"/> </td>
+</tr></table>
+
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
