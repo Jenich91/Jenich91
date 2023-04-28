@@ -10,7 +10,7 @@
 
 Мои контакты:
 [<img src="https://img.icons8.com/color/512/telegram-app--v4.png" width="40" height="40">](https://t.me/jenya_nsk)
-[<img src="https://img.icons8.com/color/512/apple-mail.png" width="40" height="40">](mailto:Jenich123@yandex.ru)
+[<img src="https://img.icons8.com/color/512/apple-mail.png" width="40" height="40">](mailto:aop9r5h85@mozmail.com)
 
 ---------------------
   ![Jokes Card](https://readme-jokes.vercel.app/api)
