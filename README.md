@@ -6,7 +6,7 @@
 Учусь в Школе 21 🚀
 
 - 🔭 Сейчас работаю над ...Frontend bootcamp, kotlin bootcamp
-- 🌱 Сейчас изучаю ...React, gradle, nodejs
+- 🌱 Сейчас изучаю ...React, nodejs, kotlin, gradle
 
 Мои контакты:
 [<img src="https://img.icons8.com/color/512/telegram-app--v4.png" width="40" height="40">](https://t.me/jenya_nsk)
