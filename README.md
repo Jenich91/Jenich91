@@ -53,9 +53,9 @@ Project name | Description | Language
 [SmartCalc_v1](https://github.com/Jenich91/SmartCalc_v1.0)|Разработка расширенной версию калькулятора. Для реализации калькулятора использован алгоритм Дейкстры для перевода выражений в обратную польскую нотацию. Помимо базовых арифметических операций,калькулятор обладает возможностью вычисления арифметических выражений с учетом приоритетов, а так же некоторыми математическими функциями (синус, косинус, логарифм и т.д.). Помимо вычисления выражений калькулятор поддерживает использование переменной x и построение графика соответствующей функции. В качестве дополнительных улучшений реализован кредитный|C lang, QT
 [3DViewer_v1](https://github.com/Jenich91/3DViewer_v1.0)|Разработка собственной реализации программы для просмотра 3D моделей в каркасном виде (3D Viewer). Сами модели загружаются из файлов формата .obj и имеют возможность просматриваться на экране с возможностью вращения, масштабирования и перемещения|C lang, QT
 [Linux](https://github.com/Jenich91/Linux)|Установка и обновления системы Linux. Основы администрирования|
-[Linux_Nexwork](https://github.com/Jenich91/DO2_LinuxNetwork)|Настройка сетей в Linux на виртуальных машинах(DHCP,NAT,SSH)|
-[LinuxMonitoring_v1][BASH](https://github.com/Jenich91/LinuxMonitoring_v1.0)|Linux basic bash scripting and system research|
-[LinuxMonitoring_v2][BASH](https://github.com/Jenich91/LinuxMonitoring_v2.0)|Мониторинг и исследование состояния системы в реальном времени(GoAccess, Prometheus, Grafana)
+[Linux_Nexwork](https://github.com/Jenich91/DO2_LinuxNetwork)|Настройка сетей в Linux на виртуальных машинах(DHCP,NAT,SSH)|BASH
+[LinuxMonitoring_v1](https://github.com/Jenich91/LinuxMonitoring_v1.0)|Linux basic bash scripting and system research|BASH
+[LinuxMonitoring_v2](https://github.com/Jenich91/LinuxMonitoring_v2.0)|Мониторинг и исследование состояния системы в реальном времени(GoAccess, Prometheus, Grafana)
 [SimpleDocker](https://github.com/Jenich91/SimpleDocker)|Введение в докер. Разработка простого докер образа для собственного сервера(nginx,FastCgi,Dockle,Docker Compose)
 [CICD](https://github.com/Jenich91/CICD)|Разработка простого CI/CD для проекта SimpleBashUtils. Сборка, тестирование, развертывание(gitlab runner pipeline,deploy,telegram-bot notification)
 [Matrix v2](https://github.com/Jenich91/matrixplus)|Еще раз реализовать библиотеку для работы с матрицами, но на этот раз, используя объектно-ориентированный подход.|C++ 
