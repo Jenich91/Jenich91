@@ -2,7 +2,7 @@
 
 <table><tr>
 <td>
-Программирую на C/C++, C#/Java, NodeJs, React, Kotlin, SQL 💻<br>
+Программирую на C/C++, Java/Kotlin, React, NodeJs, SQL 💻<br>
 Учусь в Школе 21 🚀
 
 - 🔭 Сейчас работаю над ...Kotlin bootcamp
@@ -24,24 +24,44 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack"  alt="slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"  title="opengl" alt="opengl" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg"  title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg"  title="clion" alt="clion" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  
 Проекты, над которыми я работал:
 Project name | Description | Language
 --- | --- | ---
@@ -52,9 +72,9 @@ Project name | Description | Language
 [SmartCalc_v1](https://github.com/Jenich91/SmartCalc_v1.0)|Разработка расширенной версию калькулятора. Для реализации калькулятора использован алгоритм Дейкстры для перевода выражений в обратную польскую нотацию. Помимо базовых арифметических операций,калькулятор обладает возможностью вычисления арифметических выражений с учетом приоритетов, а так же некоторыми математическими функциями (синус, косинус, логарифм и т.д.). Помимо вычисления выражений калькулятор поддерживает использование переменной x и построение графика соответствующей функции. В качестве дополнительных улучшений реализован кредитный|C lang, QT
 [3DViewer_v1](https://github.com/Jenich91/3DViewer_v1.0)|Разработка собственной реализации программы для просмотра 3D моделей в каркасном виде (3D Viewer). Сами модели загружаются из файлов формата .obj и имеют возможность просматриваться на экране с возможностью вращения, масштабирования и перемещения|C lang, QT
 [Linux](https://github.com/Jenich91/Linux)|Установка и обновления системы Linux. Основы администрирования|
-[Linux_Nexwork](https://github.com/Jenich91/DO2_LinuxNetwork)|Настройка сетей в Linux на виртуальных машинах(DHCP,NAT,SSH)|BASH
+[Linux_Nexwork](https://github.com/Jenich91/DO2_LinuxNetwork)|Настройка сетей в Linux на виртуальных машинах(DHCP,NAT,SSH)|
 [LinuxMonitoring_v1](https://github.com/Jenich91/LinuxMonitoring_v1.0)|Linux basic bash scripting and system research|BASH
-[LinuxMonitoring_v2](https://github.com/Jenich91/LinuxMonitoring_v2.0)|Мониторинг и исследование состояния системы в реальном времени(GoAccess, Prometheus, Grafana)
+[LinuxMonitoring_v2](https://github.com/Jenich91/LinuxMonitoring_v2.0)|Мониторинг и исследование состояния системы в реальном времени(GoAccess, Prometheus, Grafana)|BASH
 [SimpleDocker](https://github.com/Jenich91/SimpleDocker)|Введение в докер. Разработка простого докер образа для собственного сервера(nginx,FastCgi,Dockle,Docker Compose)
 [CICD](https://github.com/Jenich91/CICD)|Разработка простого CI/CD для проекта SimpleBashUtils. Сборка, тестирование, развертывание(gitlab runner pipeline,deploy,telegram-bot notification)
 [Matrix v2](https://github.com/Jenich91/matrixplus)|Еще раз реализовать библиотеку для работы с матрицами, но на этот раз, используя объектно-ориентированный подход.|C++ 
