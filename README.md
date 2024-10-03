@@ -2,7 +2,7 @@
 
 <table><tr>
 <td>
-Программирую на C/C++, Java/Kotlin, React, NodeJs, SQL 💻<br>
+Программирую на C/C++, Java/Kotlin, JavaScript/TypeScript, React, NodeJs, SQL 💻<br>
 Учусь в Школе 21 🚀
 
 - 🔭 Сейчас работаю над ...Kotlin bootcamp
