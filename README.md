@@ -2,14 +2,13 @@
 
 <table><tr>
 <td>
-Программирую на C/C++, C#/Java, Bash, SQL 💻<br>
+Программирую на C/C++, C#/Java, NodeJs, React, Kotlin, SQL 💻<br>
 Учусь в Школе 21 🚀
 
-- 🔭 Сейчас работаю над ...Frontend bootcamp, kotlin bootcamp
-- 🌱 Сейчас изучаю ...React, nodejs, kotlin, gradle
+- 🔭 Сейчас работаю над ...Kotlin bootcamp
+- 🌱 Сейчас изучаю ...Kotlin, gradle
 
 Мои контакты:
-[<img src="https://img.icons8.com/color/512/telegram-app--v4.png" width="40" height="40">](https://t.me/jenya_nsk)
 [<img src="https://img.icons8.com/color/512/apple-mail.png" width="40" height="40">](mailto:VyatkinEvgeniyNsk@yandex.ru)
 
 ---------------------
