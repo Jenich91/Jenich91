@@ -2,11 +2,11 @@
 
 <table><tr>
 <td>
-Программирую на C/C++, Java/Kotlin, JavaScript/TypeScript, React, NodeJs, SQL 💻<br>
-Учусь в Школе 21 🚀
+Выпускник School 21 🚀
+Программирую на C/C++, Java/Kotlin, SQL, JavaScript/TypeScript, React, NodeJs, PHP, Flutter 💻<br>
 
-- 🔭 Сейчас работаю над ...Kotlin bootcamp
-- 🌱 Сейчас изучаю ...Kotlin, gradle
+- 🔭 Сейчас работаю ...Кое где =)
+- 🌱 Сейчас изучаю ...PHP, Flutter
 
 Мои контакты:
 [<img src="https://img.icons8.com/color/512/apple-mail.png" width="40" height="40">](mailto:VyatkinEvgeniyNsk@yandex.ru)
