@@ -10,7 +10,7 @@
       🌱 Сейчас изучаю телеграм-ботов, homelab-сервера
       <br><br>
       <b>Мои контакты:</b>
-      <a href="mailto:VyatkinEvgeniyNsk@yandex.ru">
+      <a href="mailto:aop9r5h85@mozmail.com">
         <img src="https://img.icons8.com/color/512/apple-mail.png" width="40" height="40">
       </a>
       <br><br>
